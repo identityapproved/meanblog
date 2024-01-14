@@ -1,0 +1,22 @@
+{
+  "name": "meanblog",
+  "version": "1.0.0",
+  "description": "Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemon": "^3.0.2",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
