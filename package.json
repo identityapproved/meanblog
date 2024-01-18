@@ -11,6 +11,7 @@
     "body-parser": "*",
     "cors": "*",
     "express": "*",
+    "express-session": "^1.17.3",
     "jsonwebtoken": "*",
     "mongoose": "*",
     "nodemon": "^3.0.2",
